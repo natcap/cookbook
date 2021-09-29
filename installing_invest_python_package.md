@@ -7,7 +7,7 @@
 conda create -y -c conda-forge -n <name> python=<python version>
 conda activate <name>
 conda install -y -c conda-forge gdal=<gdal version>
-pip install natcap.invest[ui]==<invest version>
+pip install natcap.invest==<invest version>
 ```
 Replace `<name>` with any name you'd like to give your environment.
 Replace `<python version>` with a python version known to be compatible with the desired invest version.
@@ -23,12 +23,12 @@ This is not the only way to do it. There are other virtual environment tools and
 conda create -y -c conda-forge -n invest391 python=3.9.7
 conda activate invest391
 conda install -y -c conda-forge gdal=3.3.1
-pip install natcap.invest[ui]==3.9.1
+pip install natcap.invest==3.9.1
 ```
 
 **Condensed into one line:**
 ```
-conda create -y -c conda-forge -n invest391 python=3.9.7 gdal=3.3.1 && conda activate invest391 && pip install natcap.invest[ui]==3.9.1
+conda create -y -c conda-forge -n invest391 python=3.9.7 gdal=3.3.1 && conda activate invest391 && pip install natcap.invest==3.9.1
 ```
 
 ## Details
