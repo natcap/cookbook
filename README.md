@@ -7,3 +7,4 @@ A collection of computational recipes for natcap analyses
 * [Count the number of people downstream of pixels of interest](https://github.com/phargogh/downstream-beneficiaries-cli)
 * [Rasterize a vector geometry onto a netCDF grid](https://gist.github.com/davemfish/df6fb2fa3b5f3c9bfbec399437e99042)
 * [How to do line profiling in Cython](https://github.com/natcap/pygeoprocessing/wiki/How-to-do-line-profiling-in-cython)
+* [Create a multilinestring by connecting a group of points (minimum spanning tree)](https://github.com/natcap/morgan-stanley/blob/main/preprocessing/linear_assets.ipynb)
