@@ -26,5 +26,5 @@ mamba create -p ./env -c conda-forge python=3.10 gdal jupyter git ipyleaflet wge
 
 ```
 mamba activate ./env
-jupyter notebook demo.ipynb
+jupyter notebook colorize_layers.ipynb
 ```
