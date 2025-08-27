@@ -10,5 +10,5 @@ A collection of computational recipes for natcap analyses
 * [How to do line profiling in Cython](https://github.com/natcap/pygeoprocessing/wiki/How-to-do-line-profiling-in-cython)
 * [Create a multilinestring by connecting a group of points (minimum spanning tree)](https://github.com/natcap/morgan-stanley/blob/main/preprocessing/linear_assets.ipynb)
 * [Create static slippy map tiles using only GDAL](./recipes/static-slippy-map-tiles-with-gdal/)
-* [Landcover transition utility for exploring differences in two landcover rasters](https://github.com/natcap/gef-rapid-es-assessments/tree/main/scripts/landcover-transition)
+* [Landcover transition utility for exploring differences in two landcover rasters](https://github.com/natcap/3Ps-rapid-es-assessments/tree/main/scripts/General/landcover-transition)
 * [Count the number of `nan` pixels in rasters in a directory](https://gist.github.com/davemfish/e0934f6caa5a927d20e443f0671a4917)
